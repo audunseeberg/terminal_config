@@ -34,8 +34,8 @@ This setup script will install and configure the following:
 
     Clone this repository to a location of your choice on your WSL instance, for example, in your home directory:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-    cd YOUR_REPO_NAME
+    git clone https://github.com/audunseeberg/terminal_config.git
+    cd terminal_config
     ```
 
 2.  **Run the Setup Script**
