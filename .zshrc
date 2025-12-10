@@ -112,8 +112,8 @@ source $ZSH/oh-my-zsh.sh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-alias ls="eza --icons"
-alias ll="eza -l --icons"
-alias la="eza -la --icons"
+alias ls="eza --icons always"
+alias ll="eza -l --icons always"
+alias la="eza -la --icons always"
 alias bat="batcat"
 alias fd="fdfind"
