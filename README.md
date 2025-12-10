@@ -42,6 +42,7 @@ This setup script will install and configure the following:
 
     Execute the setup script from within the repository's root directory:
     ```bash
+    chmod +x setup.sh
     ./setup.sh
     ```
     The script will prompt for your password to install packages via `apt`.
